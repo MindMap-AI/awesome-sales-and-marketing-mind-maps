@@ -1,4 +1,5 @@
-# Awesome Sales & Marketing Mind Maps
+# [Awesome Sales & Marketing Mind Maps](https://mindmapai.app/mind-maps/sales-and-marketing) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Enhance your sales &amp; marketing strategy with project management and mind maps AI to streamline campaigns, track performance, and drive ROI. Mind maps AI empowers teams to visually plan, adapt to trends, and align efforts for customer engagement and business growth.
 
 - [14 Essential SEO Tools for Shopify Stores (2024)](https://mindmapai.app/mind-map/14-essential-seo-tools-for-shopify-stores-2024-e7279954)
